@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T11:51:03.204Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="Eb320iVN5GW4m7BV4NF0" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T11:52:25.415Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="wkqejY0XbawNtO-w2sbZ" version="20.0.3" type="github">
   <diagram id="fFO03emj91WZiigiMA-z" name="第 1 页">
     <mxGraphModel dx="731" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MKG76FOPYPv3-6Rtzddx-26" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;flipH=1;flipV=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="560" height="210" as="geometry" />
+          <mxGeometry x="40" y="70" width="560" height="210" as="geometry" />
         </mxCell>
         <mxCell id="MKG76FOPYPv3-6Rtzddx-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -93,6 +93,9 @@
               <mxPoint x="400" y="160" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MKG76FOPYPv3-6Rtzddx-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;RRFDB:Residual of Receptive Field Dense Block&lt;/font&gt;" style="text;html=1;strokeColor=#7EA6E0;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="90" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
