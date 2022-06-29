@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T12:10:06.122Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="COHooqjuxD23xGli51zV" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T12:10:22.693Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="fTy9MYr9g9gXPExXx_Bn" version="20.0.3" type="github">
   <diagram id="fFO03emj91WZiigiMA-z" name="第 1 页">
     <mxGraphModel dx="731" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="MKG76FOPYPv3-6Rtzddx-63" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;fontSize=14;fillColor=#F9F7ED;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="340" width="560" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="MKG76FOPYPv3-6Rtzddx-26" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;flipH=1;flipV=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="MKG76FOPYPv3-6Rtzddx-26" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;flipH=1;flipV=1;labelBackgroundColor=none;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="40" y="70" width="560" height="210" as="geometry" />
         </mxCell>
         <mxCell id="MKG76FOPYPv3-6Rtzddx-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
